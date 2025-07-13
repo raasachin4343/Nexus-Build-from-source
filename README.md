@@ -49,3 +49,6 @@ Screen -S bc
 ./target/release/nexus-network start
 ```
 
+
+ENJOY and give start to this repository 
+
