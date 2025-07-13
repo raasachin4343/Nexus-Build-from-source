@@ -50,5 +50,5 @@ Screen -S bc
 ```
 
 
-ENJOY and give start to this repository 
+ENJOY and give star to this repository 
 
