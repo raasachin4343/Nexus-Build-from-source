@@ -40,7 +40,7 @@ After success, the CLI binary will be located at:
 
 6.  Create Screen
 ```bash
-Screen -S bc
+screen -S bc
 ```
 
 
